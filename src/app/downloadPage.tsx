@@ -66,7 +66,7 @@ const DownloadPage: NextPage = () => {
             {/* Social Media Links */}
             <div
               className={styles.socialLinks}
-              style={{ display: "flex", gap: "15px" }}
+              style={{ display: "flex", gap: "15px", paddingTop: "20px" }}
             >
               <a
                 href="https://www.facebook.com/profile.php?id=61565428911689"
