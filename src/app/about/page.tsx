@@ -8,7 +8,7 @@ const AboutUs: FC = () => {
         <div className={styles.textColorPrimary}>
           <p>Welcome</p>
         </div>
-        <p>
+        <p className={styles.text}>
           To Shock Dictionary and Translation, where words come alive with
           meaning and purpose. At Shock, we believe that language is more than
           just a collection of words; it&apos;s the very fabric that weaves
@@ -21,7 +21,7 @@ const AboutUs: FC = () => {
         <div className={styles.textColorPrimary}>
           <p>Connect With Us</p>
         </div>
-        <p>
+        <p className={styles.text}>
           Got a question, suggestion, or just want to say hello? We&apos;d love
           to hear from you!
         </p>
@@ -31,7 +31,7 @@ const AboutUs: FC = () => {
         <div className={styles.textColorPrimary}>
           <p>Location</p>
         </div>
-        <p>
+        <p className={styles.text}>
           Based in the vibrant state of Texas, USA, Shock draws inspiration from
           the diverse cultures, languages, and landscapes that surround us.
           Situated at the crossroads of innovation and tradition, our
