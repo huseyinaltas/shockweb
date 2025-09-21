@@ -1,0 +1,2 @@
+# Example app-ads.txt
+# Add your authorized digital sellers below
