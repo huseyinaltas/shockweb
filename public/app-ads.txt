@@ -1,2 +1,3 @@
 # Example app-ads.txt
 # Add your authorized digital sellers below
+google.com, pub-2096077620389803, DIRECT, f08c47fec0942fa0
