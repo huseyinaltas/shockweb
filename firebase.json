@@ -6,6 +6,17 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "headers": [
+      {
+        "source": "/app-ads.txt",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=0, no-cache"
+          }
+        ]
+      }
+    ],
     "rewrites": [
       {
         "source": "**",
