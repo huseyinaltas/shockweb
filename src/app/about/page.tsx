@@ -29,7 +29,7 @@ const AboutUs: FC = () => {
       </div>
       <div className={styles.section}>
         <div className={styles.textColorPrimary}>
-          <p>Location:</p>
+          <p>Location</p>
         </div>
         <p className={styles.text}>
           Based in the vibrant state of Texas, USA, Shock draws inspiration from
